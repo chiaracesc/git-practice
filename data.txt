@@ -1,0 +1,3 @@
+Name: Chiara 
+Age: 23
+Favorite color: yellow
